@@ -1,0 +1,7 @@
+<div class="controls">
+  <input type="button" class="control_B" value="B"/>
+  <input type="button" class="control_I" value="I"/>
+  <input type="button" class="control_U" value="U"/>
+</div>
+<div class="message">
+</div>
